@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+**My name is Rew,** I'm studying in the Faculty of Information Technology at KMUTT University.
 
+- 🔭 I’m currently working on PLAYBOX STUDIOS.
+- 📖 I’m currently learning coding. 
+- 🎨 I'm also passionate about arts.
 <!--
 **RewEPIC/RewEPIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
