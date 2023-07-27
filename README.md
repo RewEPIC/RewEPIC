@@ -1,6 +1,4 @@
 ### Hello there 👋
-![](https://komarev.com/ghpvc/?username=RewEPIC) 
-
 **My name is Rew,** I'm studying in the Faculty of Information Technology at KMUTT University.
 
 - 🔭 I’m currently working at PLAYBOX STUDIOS.
