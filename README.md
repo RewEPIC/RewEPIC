@@ -8,18 +8,16 @@ I'm studying in the Faculty of Information Technology at KMUTT University.
 
 ## 🌱 I’m currently working with
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,cs,js,ts,python)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=java,cs,js,ts,python)
 ### Libraries & Framework
-[![Libraries&Framework](https://skillicons.dev/icons?i=spring,react,vue,express,next,prisma)](https://skillicons.dev)
+![Libraries&Framework](https://skillicons.dev/icons?i=spring,react,vue,express,next,prisma)
 ### Database
-[![Database](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+![Database](https://skillicons.dev/icons?i=mysql,mongo)
 ### CSS Framework
-[![CSS](https://skillicons.dev/icons?i=css,bootstrap,tailwind)](https://skillicons.dev)
+![CSS](https://skillicons.dev/icons?i=css,bootstrap,tailwind)
 ## Contacts
-[Facebook] https://www.facebook.com/duancharoens/  
-[Instagram] https://www.instagram.com/rewlegendary_/  
-[Linkedin] https://www.linkedin.com/in/duangcharoen-siwasutum-a231bb285/  
-[Email] duangcharoen.siwa@kmutt.ac.th  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rewlegendary_/  )
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/duangcharoen-siwasutum-a231bb285/  )   
 <!--
 **RewEPIC/RewEPIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
