@@ -7,7 +7,7 @@ I'm studying in the Faculty of Information Technology at KMUTT University.
 
 ## 🌱 I’m currently working with
 ### Languages
-![Languages](https://skillicons.dev/icons?i=java,cs,js,ts,python)
+![Languages](https://skillicons.dev/icons?i=java,cs,js,ts,python,swift)
 ### Libraries & Framework
 ![Libraries&Framework](https://skillicons.dev/icons?i=spring,react,vue,express,next,prisma)
 ### Database
