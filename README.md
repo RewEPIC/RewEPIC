@@ -1,6 +1,6 @@
 # Hello there 👋
 **My name is Duangcharoen Siwasutum, but you can call me Rew.**  
-I'm studying in the Faculty of Information Technology at KMUTT University.
+I'm studying in the Faculty of Information Technology at KMUTT.
 
 - 📖 I’m currently learning coding. 
 - 🎨 I'm also passionate about arts.
