@@ -1,4 +1,6 @@
 # Hello there 👋
+![](https://komarev.com/ghpvc/?username=RewEPIC)
+
 **My name is Duangcharoen Siwasutum, but you can call me Rew.**  
 I'm studying in the Faculty of Information Technology at KMUTT.
 
